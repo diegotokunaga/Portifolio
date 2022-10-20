@@ -1,0 +1,92 @@
+{
+    "Header": {
+      "title": "Diego Hideki Tokunaga",
+      "paragraph": "Desenvolvedor FrontEnd Junior"
+    },
+    "About": {
+      "paragraph": "Estudando desenvolvimento Web FrontEnd. Principalmente com ReactJs, NextJs, Angular e treinando ao máximo possivel as estilizações e responsividades de um site. Estou em busca de novas oportunidades de crescimento profissional. Estou em transição de carreira da área da fisioterapia para a área de técnologia. Buscando certificação de CFL-C01 em AWS.",
+      "Why": [
+        "ReactJs",
+        "AngularJs",
+        "NodeJs",
+        "JavaScript"
+      ],
+      "Why2": [
+        "MySQL",
+        "HTML",
+        "CSS",
+        "AWS"
+      ]
+    },
+    "Gallery": [
+      {
+        "title": "Project Title",
+        "largeImage": "img/portfolio/01-large.jpg",
+        "smallImage": "img/portfolio/01-small.jpg"
+      },
+      {
+        "title": "Project Title",
+        "largeImage": "img/portfolio/02-large.jpg",
+        "smallImage": "img/portfolio/02-small.jpg"
+      },
+      {
+        "title": "Project Title",
+        "largeImage": "img/portfolio/03-large.jpg",
+        "smallImage": "img/portfolio/03-small.jpg"
+      },
+      {
+        "title": "Project Title",
+        "largeImage": "img/portfolio/04-large.jpg",
+        "smallImage": "img/portfolio/04-small.jpg"
+      },
+      {
+        "title": "Project Title",
+        "largeImage": "img/portfolio/05-large.jpg",
+        "smallImage": "img/portfolio/05-small.jpg"
+      },
+      {
+        "title": "Project Title",
+        "largeImage": "img/portfolio/06-large.jpg",
+        "smallImage": "img/portfolio/06-small.jpg"
+      },
+      {
+        "title": "Project Title",
+        "largeImage": "img/portfolio/07-large.jpg",
+        "smallImage": "img/portfolio/07-small.jpg"
+      },
+      {
+        "title": "Project Title",
+        "largeImage": "img/portfolio/08-large.jpg",
+        "smallImage": "img/portfolio/08-small.jpg"
+      },
+      {
+        "title": "Project Title",
+        "largeImage": "img/portfolio/09-large.jpg",
+        "smallImage": "img/portfolio/09-small.jpg"
+      }
+    ],
+      "Links": [
+      {
+        "img": "img/link/01.jpg",
+        "name": "GitHub",
+        "job": "diegotokunaga"
+      },
+      {
+        "img": "img/link/03.jpg",
+        "name": "LinkedIn",
+        "job": "diegotokunaga"
+      },
+      {
+        "img": "img/link/02.jpg",
+        "name": "Instagram",
+        "job": "diegotokunaga"
+      },
+      {
+        "img": "img/link/04.jpg",
+        "name": "Gmail",
+        "job": "diego.tokunaga@gmail.com"
+      }      
+    ]
+  }
+    
+  
